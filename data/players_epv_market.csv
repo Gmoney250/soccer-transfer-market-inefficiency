@@ -1,0 +1,42 @@
+player_name,age,position,league,club,market_value_eur_millions,xg_per90,xa_per90,epv_added_per90,progressive_carries_per90,pressures_per90,pass_completion_pct,minutes_played,goals,assists,contract_years_remaining,injury_days_last_season,social_media_followers_millions,nationality,transfer_fee_eur_millions
+Lamine Yamal,18,RW,La Liga,FC Barcelona,180.0,0.42,0.38,0.87,4.2,18.5,82.3,2650,14,11,5,12,28.5,Spain,0
+Florian Wirtz,22,AM,Bundesliga,Real Madrid,150.0,0.51,0.44,0.91,3.8,16.2,87.1,2780,18,13,4,8,19.2,Germany,150
+Jude Bellingham,22,CM,La Liga,Real Madrid,150.0,0.39,0.31,0.78,3.1,21.4,84.6,2900,12,9,4,15,42.1,England,0
+Jamal Musiala,23,AM,Premier League,Manchester City,130.0,0.44,0.36,0.82,4.5,15.8,86.4,2520,15,10,4,5,16.8,Germany,130
+Pedri,23,CM,La Liga,FC Barcelona,120.0,0.22,0.41,0.76,2.8,19.7,91.2,2100,6,12,4,42,14.3,Spain,0
+Bukayo Saka,24,RW,Premier League,Arsenal,120.0,0.38,0.42,0.79,3.9,17.1,81.5,2850,13,14,3,18,15.7,England,0
+Arda Guler,21,AM,La Liga,Real Madrid,80.0,0.46,0.29,0.74,3.3,13.2,83.7,1650,9,5,4,22,12.4,Turkey,0
+Gavi,21,CM,La Liga,FC Barcelona,90.0,0.18,0.33,0.71,2.6,22.8,88.9,1980,4,8,4,95,11.2,Spain,0
+Xavi Simons,23,AM,Premier League,Liverpool,100.0,0.41,0.37,0.84,4.1,16.5,80.2,2700,14,10,3,10,21.5,Netherlands,90
+Mathys Tel,20,CF,Bundesliga,Bayern Munich,45.0,0.52,0.21,0.68,2.4,14.3,76.8,1450,8,4,3,7,4.2,France,45
+Warren Zaire-Emery,20,CM,Ligue 1,PSG,70.0,0.28,0.35,0.73,3.0,23.1,85.6,2350,7,9,4,0,6.8,France,0
+Kobbie Mainoo,21,CM,Premier League,Manchester United,65.0,0.19,0.27,0.62,2.5,20.4,86.1,2480,5,7,4,14,8.9,England,0
+Pau Cubarsi,19,CB,La Liga,FC Barcelona,60.0,0.03,0.08,0.41,1.8,16.8,92.4,2600,1,2,5,0,7.5,Spain,0
+Leny Yoro,20,CB,Premier League,Manchester United,55.0,0.04,0.06,0.38,1.5,15.2,89.7,1800,1,1,4,68,5.1,France,55
+Alejandro Garnacho,21,LW,Serie A,Napoli,50.0,0.35,0.28,0.65,3.7,12.8,74.3,2300,10,7,4,5,14.8,Argentina,50
+Savinho,21,RW,Premier League,Manchester City,45.0,0.31,0.33,0.72,4.3,15.9,78.4,2100,8,9,3,12,5.6,Brazil,40
+Kenan Yildiz,21,LW,Serie A,Juventus,40.0,0.33,0.26,0.63,3.4,14.1,79.8,2200,9,6,3,8,7.3,Turkey,0
+Antonio Nusa,20,RW,Bundesliga,RB Leipzig,30.0,0.37,0.31,0.71,4.6,13.7,77.2,1900,8,7,3,0,2.1,Norway,30
+Adam Wharton,22,CM,Premier League,Crystal Palace,35.0,0.12,0.29,0.67,2.2,18.3,90.5,2650,3,8,4,10,2.8,England,0
+Castello Lukeba,22,CB,Bundesliga,Bayern Munich,55.0,0.02,0.05,0.36,1.9,17.6,90.1,2550,1,1,4,5,1.9,France,55
+Joao Neves,21,CM,Ligue 1,PSG,75.0,0.21,0.38,0.74,2.9,24.5,87.3,2700,6,11,4,0,5.4,Portugal,75
+Desire Doue,20,AM,Ligue 1,PSG,40.0,0.29,0.25,0.61,3.6,14.8,78.9,1700,6,5,4,8,3.2,France,40
+Giorgi Mamardashvili,25,GK,Premier League,Liverpool,40.0,0.00,0.00,0.22,0.3,4.2,78.5,2700,0,0,4,0,3.1,Georgia,40
+Karim Adeyemi,24,LW,Bundesliga,Borussia Dortmund,35.0,0.40,0.22,0.66,4.0,11.5,75.1,1600,7,4,2,32,4.5,Germany,0
+Evan Ferguson,21,CF,Premier League,Brighton,30.0,0.44,0.15,0.58,1.8,10.2,72.4,1350,7,3,4,45,3.8,Ireland,0
+Endrick,19,CF,La Liga,Real Madrid,60.0,0.48,0.18,0.64,2.1,12.4,73.6,1100,6,2,5,0,18.9,Brazil,0
+Moises Caicedo,24,CDM,Premier League,Chelsea,80.0,0.11,0.22,0.59,2.3,25.8,87.8,2800,3,6,4,5,6.2,Ecuador,80
+Ryan Gravenberch,23,CM,Premier League,Liverpool,70.0,0.16,0.30,0.69,2.7,20.1,88.4,2750,5,8,4,0,5.8,Netherlands,0
+Amadou Onana,24,CM,Premier League,Aston Villa,50.0,0.14,0.19,0.55,2.0,21.7,84.2,2600,4,5,4,8,3.4,Belgium,50
+Yeremi Pino,23,RW,La Liga,Villarreal,32.0,0.34,0.30,0.70,3.8,15.4,80.6,2350,9,8,2,18,4.7,Spain,0
+Nico Williams,23,LW,La Liga,Athletic Bilbao,70.0,0.36,0.34,0.77,4.4,14.6,79.1,2600,11,9,2,10,12.6,Spain,0
+Benjamin Sesko,22,CF,Bundesliga,RB Leipzig,65.0,0.55,0.16,0.69,2.5,13.8,74.9,2450,15,4,3,0,6.4,Slovenia,0
+Johan Bakayoko,21,RW,Premier League,Aston Villa,38.0,0.32,0.35,0.72,4.2,14.2,79.5,2150,8,8,4,5,3.5,Belgium,38
+Ousmane Diomande,22,CB,La Liga,Sporting CP,45.0,0.05,0.07,0.43,2.1,18.9,88.5,2500,2,2,3,0,2.3,Ivory Coast,0
+Jamie Bynoe-Gittens,21,LW,Bundesliga,Borussia Dortmund,28.0,0.38,0.27,0.69,4.5,13.1,76.4,1750,8,5,3,10,2.9,England,0
+Facundo Pellistri,22,RW,La Liga,Granada,18.0,0.25,0.31,0.68,4.1,16.2,80.3,2400,7,8,2,5,3.6,Uruguay,15
+Lois Openda,26,CF,Bundesliga,RB Leipzig,55.0,0.49,0.14,0.62,2.8,15.7,73.2,2600,14,4,3,0,4.8,Belgium,0
+Oscar Gloukh,22,AM,Bundesliga,RB Salzburg,25.0,0.33,0.36,0.75,3.5,15.1,82.8,2300,9,9,2,0,2.0,Israel,25
+Vitor Roque,20,CF,La Liga,Real Betis,25.0,0.43,0.12,0.57,2.2,13.5,71.8,1550,7,2,3,0,8.1,Brazil,25
+Sandro Tonali,25,CM,Premier League,Newcastle,40.0,0.13,0.28,0.64,2.4,22.3,87.9,2300,4,7,3,0,4.1,Italy,0
+Milos Kerkez,22,LB,Premier League,Bournemouth,30.0,0.06,0.18,0.52,3.2,16.4,81.7,2700,2,5,3,5,1.8,Hungary,0
